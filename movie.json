@@ -97,7 +97,9 @@
       "country": "Mỹ",
       "duration": "117 phút",
       "category": [
-        "Phiêu Lưu, Hoạt Hình, Viễn Tưởng"
+        "Phiêu Lưu",
+        "Hoạt hình",
+        "Viễn tưởng"
       ],
       "director": "Bob Persichetti",
       "trailer_url": "https://www.youtube.com/watch?v=Wt0y8IH63jg",
@@ -110,48 +112,15 @@
       "country": "Hàn Quốc",
       "duration": "81 phút",
       "category": [
-        "Kinh Dị, Hành Động, Phiêu Lưu, Tâm Lý, Viễn Tưởng"
+        "Kinh dị",
+        "Hành động",
+        "Phiêu Lưu",
+        "Viễn tưởng"
       ],
       "director": "Lee Soo-seong",
       "trailer_url": "https://www.youtube.com/watch?v=zjrC1NK5Le4v",
       "avatar": "https://images2.thanhnien.vn/Uploaded/khanhntm/2023_01_06/gangnam-zombie-387.jpeg",
       "desscription": "Nội dung phim Gangnam Zombie kể về một dịch bệnh kỳ lạ trong một chung cư hạng sang ở khu Gangnam, khu vực nổi tiếng giàu có và sầm uất của Hàn Quốc. Phim lấy bối cảnh tại khu vực tập trung của giới siêu giàu Hàn Quốc mang lại một góc nhìn mới mẻ hơn cho dòng phim zombie.Trong phim, một căn bệnh kỳ lạ xuất hiện và nhanh chóng lan rộng khắp khu vực khiến vô số người bị lây nhiễm. 2 nhân vật chính của phim là Hyeon-seok và Min-jeong (Do Ji Il-joo và Park Ji-yeon thủ vai) sát cánh bên nhau để chiến đấu thoát khỏi sự truy lùng của zombie."
-    },
-    {
-      "imageUrl": {
-        "0": {}
-      },
-      "nameMovie": "Shaine Merritt",
-      "duration": "Commodo laborum Sun",
-      "country": "Sit at elit a aliqu",
-      "director": "Accusantium dolorum ",
-      "category": [
-        "Phiêu lưu",
-        "Võ thuật"
-      ],
-      "desscription": "Ducimus explicabo ",
-      "avatar": "http://res.cloudinary.com/dqgavjgs1/image/upload/v1697938964/zjrqrt9wxoxlxayx0chl.png",
-      "id": 9
-    },
-    {
-      "imageUrl": {
-        "0": {}
-      },
-      "nameMovie": "chiến binh mùa đông",
-      "duration": "Lorem quas qui conse",
-      "country": "Esse saepe alias ex",
-      "director": "Cupidatat amet impe",
-      "category": [
-        "Hành động",
-        "Phiêu lưu",
-        "Kinh dị",
-        "Tâm lý",
-        "Hình sự",
-        "Võ thuật"
-      ],
-      "desscription": "Provident itaque eu",
-      "avatar": "http://res.cloudinary.com/dqgavjgs1/image/upload/v1697939436/ihzx9ktfjwmbmxvswtz6.jpg",
-      "id": 10
     }
   ]
 }
